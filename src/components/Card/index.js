@@ -6,7 +6,7 @@ function Card(props) {
         <div className="card">
             <div className="img-container">
             </div>
-            <div className="content">
+            <div className="div-content">
                 <ul>
                     <li><strong>Id</strong>{props.id}</li></ul></div>
         </div>

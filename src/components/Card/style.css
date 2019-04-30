@@ -1,0 +1,23 @@
+.card{
+    background: rgb(15, 110, 218);
+    height:10em;
+    width:10em;
+    border: solid 2px black;
+    margin: 1em;
+position: relative;
+}
+
+.card > .img-container{
+    height:60%;
+    overflow: hidden;
+    text-align: center;
+    background: #6CADDC;
+}
+.card > .div-content {
+    padding-left: 1rem;
+    padding-right: 1rem;
+    font-size: 15px;
+}
+.card > .div-content > ul {
+    list-style-type: none;
+  }
