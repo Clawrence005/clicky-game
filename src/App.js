@@ -41,12 +41,12 @@ class App extends React.Component {
 
             }
             this.setState({ score: 0 });
-
+            this.setState({ wasClicked: [] });
         }
         let newClickArray = this.state.wasClicked;
         newClickArray.push(id);
         this.setState({ wasClicked: newClickArray });
-        this.shuffleCards(this.state.items); this.setState({ wasClicked: [] });
+        this.shuffleCards(this.state.items);
     }
 
     // expected output: true
