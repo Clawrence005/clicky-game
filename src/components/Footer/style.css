@@ -1,0 +1,21 @@
+.footer {
+    min-height: 60px;
+    background: burlywood;
+
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: red;
+    color: white;
+    text-align: center;
+}
+
+.footer span {
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    padding: 3px;
+    background: red;
+}
