@@ -59,8 +59,9 @@ class App extends React.Component {
                     highestScore={this.state.highScore}
                 />
                 <Title>The Clicky Game</Title>
-                <p>Score: {this.state.score}</p>
-                <p>High Score: {this.state.highScore}</p>
+                <strong><h1>Score: {this.state.score}</h1></strong>
+                <strong>  <h1>High Score: {this.state.highScore}</h1></strong>
+
                 {
                     this.state.items.map(item => (
                         <Card

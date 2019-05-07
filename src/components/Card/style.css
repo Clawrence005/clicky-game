@@ -1,8 +1,9 @@
 .card{
-    height:10em;
-    width:10em;
+    display: inline-block;
+    height:190px;
+    width:190px;
     margin: 1em;
-position: relative;
+/* position: relative; */
 }
 
 .card > .div-content {

@@ -1,6 +1,8 @@
 .cardwrapper{
+    display: inline-block;
     justify-content: space-around;
     align-content: flex-start;
-    overflow: auto;
+    overflow: none;
     position: relative;
 }
+
