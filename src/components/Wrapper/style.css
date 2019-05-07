@@ -1,7 +1,6 @@
 .cardwrapper{
-    display: flex;
-    flex-flow: row wrap;
     justify-content: space-around;
     align-content: flex-start;
     overflow: auto;
+    position: relative;
 }

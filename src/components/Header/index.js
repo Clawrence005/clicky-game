@@ -1,10 +1,12 @@
 import React from 'react';
 import './style.css';
 
-function Header() {
+function Header(props) {
     return (<div>
-        <nav className="header">Clicky Game</nav>
+        <div className="header"><h1>Clicky Game</h1></div>
+
     </div>);
 }
 
 export default Header;
+

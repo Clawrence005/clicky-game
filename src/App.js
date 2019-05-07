@@ -54,7 +54,10 @@ class App extends React.Component {
         return (
             < Wrapper >
                 {/* <Title title={item.title} /> */}
-                <Header />
+                <Header
+                    currentScore={this.state.score}
+                    highestScore={this.state.highScore}
+                />
                 <Title>The Clicky Game</Title>
                 <p>Score: {this.state.score}</p>
                 <p>High Score: {this.state.highScore}</p>
