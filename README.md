@@ -10,7 +10,7 @@ A virtual memory game that the user clicks on to
 - Javascript
 - React
 
-## [Click here to play the game](https://clawrence005.github.io/Word-Guess-Game/) 
+## [Click here to play the game](https://fierce-crag-49080.herokuapp.com/) 
 
 gif/video goes here
 
