@@ -1,7 +1,7 @@
 # The Clicky Game 
 
 ## Overview ##
-A virtual memory game that the user clicks on to 
+A ReactJs memory game in which the player clicks on an image which will cause the images to shuffle. The player must avoid clicking on the same image through the game or player loses the game.
 
 ## Built using: ##
 
