@@ -9,6 +9,8 @@ A ReactJs memory game in which the player clicks on an image which will cause th
 - CSS
 - Javascript
 - React
+- Node
+- Material UI
 
 ## [Click here to play the game](https://fierce-crag-49080.herokuapp.com/) 
 
